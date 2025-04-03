@@ -1,0 +1,3 @@
+Пакеты https://packagist.org/
+Установка композер на опенсервер http://nikolaev-web.ru/blog/installing_the_composer_on_openServer/
+Офсайт композера https://getcomposer.org/

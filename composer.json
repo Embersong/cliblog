@@ -1,0 +1,22 @@
+{
+    "name": "ember/localhost",
+    "autoload": {
+        "files": [
+            "src/main.php",
+            "src/quizs/quiz1.php",
+            "src/quizs/quiz2.php",
+            "src/blog/post.php",
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "ember",
+            "email": "evebay@mail.ru"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "ext-readline": "*"
+    }
+}
